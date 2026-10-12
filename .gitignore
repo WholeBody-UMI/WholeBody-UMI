@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv*/
+.ruff_cache/
+AGENTS.md
+.agents/
+.codex/
+checkpoints/
+outputs/
+*.pt
+*.pth
+.env
+.env.*
