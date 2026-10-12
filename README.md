@@ -9,12 +9,20 @@ bimanual palm trajectories. This repository provides model inference and
 MuJoCo visualization at 30 fps, using single-primitive rollout with overlapping
 segments.
 
+## Open-source status
+
+- [x] Inference
+- [ ] Training
+- [ ] Deploy
+
 ## Setup
 
 Install [uv](https://docs.astral.sh/uv/getting-started/installation/) and Git LFS,
-then run from the repository root to download the G1 assets and set up the environment:
+then clone the repository, download the G1 assets, and set up the environment:
 
 ```bash
+git clone https://github.com/WholeBody-UMI/WholeBody-UMI.git
+cd WholeBody-UMI
 git lfs install
 git lfs pull
 uv sync --locked --extra visualization
