@@ -1,10 +1,1 @@
-wholebody_umi/assets/g1/meshes/right_shoulder_pitch_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/right_shoulder_roll_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/right_shoulder_yaw_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/right_wrist_pitch_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/right_wrist_roll_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/right_wrist_yaw_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/torso_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/waist_roll_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/waist_support_link.STL filter=lfs diff=lfs merge=lfs -text
-wholebody_umi/assets/g1/meshes/waist_yaw_link.STL filter=lfs diff=lfs merge=lfs -text
+wholebody_umi/assets/** filter=lfs diff=lfs merge=lfs -text

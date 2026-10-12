@@ -12,7 +12,7 @@ segments.
 ## Setup
 
 Install [uv](https://docs.astral.sh/uv/getting-started/installation/) and Git LFS,
-then run from the repository root to download the G1 meshes and set up the environment:
+then run from the repository root to download the G1 assets and set up the environment:
 
 ```bash
 git lfs install
